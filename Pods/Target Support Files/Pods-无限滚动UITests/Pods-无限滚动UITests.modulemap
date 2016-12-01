@@ -1,0 +1,6 @@
+framework module Pods_____UITests {
+  umbrella header "Pods-无限滚动UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
